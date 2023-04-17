@@ -52,6 +52,18 @@
     align-items: center;
   }
 
+  .title {
+    font-size: 1em;
+    width: 50%;
+    padding: 2em;
+    font-family: "brevia", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    transition: all .3s ease-in-out;
+    color: white;
+    text-align: center;
+  }
+
 
 
 
